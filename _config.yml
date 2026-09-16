@@ -22,13 +22,12 @@ repository               : "lanqingz/lanqingz.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "ProfilePic.jpg"
-  name             : "Lan Qing Zhao"
-  bio              : "PhD researcher studying urban trees, LiDAR and remote sensing."
-  location         : "Waterloo, Ontario"
-  employer         : "University of Waterloo"
-  email            : "lqzhao@uwaterloo.ca" 
+  avatar: "ProfilePic.jpg"
+  name: "Lan Qing Zhao"
+  bio: "PhD researcher studying urban trees, LiDAR and remote sensing."
+  location: "Waterloo, Ontario, Canada"
+  employer: "University of Waterloo"
+  email: "lqzhao@uwaterloo.ca"
 
   # Academic websites
   academia         : # URL
