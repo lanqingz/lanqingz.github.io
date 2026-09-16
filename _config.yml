@@ -23,7 +23,7 @@ repository               : "lanqingz/lanqingz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Picture.jpg"
+  avatar           : "ProfilePic.jpg"
   name             : "Lan Qing Zhao"
   bio              : "PhD researcher studying urban trees, LiDAR and remote sensing."
   location         : "Waterloo, Ontario"
